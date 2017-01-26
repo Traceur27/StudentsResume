@@ -1,0 +1,85 @@
+* {
+  box-sizing: border-box;
+}
+
+html{
+	background-color: #0ba6d1;
+}
+
+fieldset{
+	border: none;
+}
+
+.hdr{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	text-align: center;
+}
+
+main{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	border-radius: 10px;
+	width: 400px;
+}
+
+main input{
+	width: 320px;
+	padding: 0px;
+	height: 40px;
+	margin-bottom: 20px;
+}
+
+.fields{
+	margin:0px;
+	padding: 0px;
+	width: 320px;
+	padding: 40px;
+}
+
+.logo{
+	height: 35;
+	width: 200px
+}
+
+.mid{
+	text-align: center;
+}
+
+.lb{
+	margin-bottom: 20px;
+	display: block;
+}
+
+.signup{
+	background-color: #4dce19;
+	color: white;
+}
+
+.signup:hover{
+	background-color: green;
+}
+
+.forgot{
+	display: block;
+	text-align: center;
+	font-size: small;
+	color: gray;
+}
+
+.already
+{
+	color: white;
+}
+
+.alreadysec {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
