@@ -1,0 +1,25 @@
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+header{
+  background-color: orange;
+}
+
+.icon{
+  width: 100%;
+}
+
+.desc{
+  height: 60px;
+  border: 2px solid black;
+}
+
+.nomargin{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
